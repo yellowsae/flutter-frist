@@ -6,7 +6,8 @@ import 'package:flutter/material.dart';
 // import "./02_layout/02_Column.dart";
 // import "./02_layout/03_Flex.dart";
 // import "./02_layout/04_Wrap.dart";
-import "./02_layout/05_Stack.dart";
+// import "./02_layout/05_Stack.dart";
+import "./02_layout/06_Card.dart";
 
 void main() {
   runApp(MyApp());
