@@ -32,7 +32,10 @@ class Home extends StatelessWidget {
   }
 }
 
+// ignore: must_be_immutable
 class WrapDemo extends StatelessWidget {
+  WrapDemo({super.key});
+
   // ignore: prefer_final_fields
   List<String> _list = [
     'Flutter',
